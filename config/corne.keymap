@@ -12,6 +12,14 @@
 #include "keypos_42keys.h"
 
 
+#define BASE 0
+#define NUMB 1 
+#define SYMB 2
+#define BT   3
+
+
+
+/ {
     keymap {
         compatible = "zmk,keymap";
 
@@ -59,6 +67,7 @@
                               &kp LGUI   &trans    &kp SPACE    &kp RET    &trans    &kp RALT
             >;
         };
+
 
         layer_bt {
             bindings = <
