@@ -38,7 +38,7 @@
 
         combo_to_pst {
             bindings = <&kp LS(LG(V))>;
-            key-positions = <29 28>;
+            key-positions = <29 27>;
         };
 
         combo_cut {
