@@ -44,6 +44,11 @@
             bindings = <&kp LG(X)>;
             key-positions = <25 27>;
         };
+
+        combo_pst_key {
+            bindings = <&kp LS(LA(LG(V)))>;
+            key-positions = <28 29>;
+        };
     };
 
     keymap {
