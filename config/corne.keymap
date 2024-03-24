@@ -29,10 +29,10 @@
             bindings = <&kp LG(C)>;
             key-positions = <26 27>;
         };
-        
-         combo_cut {
+
+        combo_cut {
             bindings = <&kp LG(X)>;
-            key-positions = <25 27>;
+            key-positions = <25 26>;
         };
 
         combo_pst {
