@@ -49,6 +49,11 @@
             bindings = <&kp LS(LA(LG(V)))>;
             key-positions = <28 29>;
         };
+
+        app_chgr {
+            bindings = <&kp LG(SPACE)>;
+            key-positions = <16 17>;
+        };
     };
 
     keymap {
