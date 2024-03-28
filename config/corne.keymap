@@ -52,7 +52,7 @@
 
         app_chgr {
             bindings = <&kp LG(SPACE)>;
-            key-positions = <16 17>;
+            key-positions = <16 15>;
         };
     };
 
