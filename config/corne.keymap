@@ -30,8 +30,8 @@
             key-positions = <26 27>;
         };
 
-        combo_cut {
-            bindings = <&kp LG(X)>;
+        combo_scrn_sht {
+            bindings = <&kp LG(LS(LA(LC(K))))>;
             key-positions = <25 26>;
         };
 
